@@ -1,0 +1,92 @@
+.name1 {font-size: 64px;
+    color: oldlace;
+    margin: 350px 15px 30px 350px;
+    font-family: ua BRAND;
+} 
+h2 {font-weight: 500;
+    font-size: 44px;
+    color: oldlace;
+}
+a {
+    color: skyblue;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+    background: url(https://c.tenor.com/ivewv74QubcAAAAd/floppa-big-among-us-swag.gif)
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    color: #1F3F68;
+}
+
+.content {
+    flex: 1 0 auto;
+
+}
+
+.footer {
+    flex: 0 0 auto;
+    
+}
+
+.menu a {
+    text-decoration: none;
+}
+
+.menu a:hover {
+    color: blue
+}
+
+.menu a li {
+    list-style: none;
+}
+
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.forma form {
+    display: flex;
+    flex-direction: column;
+    color: oldlace;
+}
+
+.forma input {
+    border: 1px solid #356EAD;
+    box-sizing: border-box;
+    border-radius: 10px;
+    opacity: 0.4;
+    width: 250px;
+    height: 30px;
+    margin: 10px 15px 15px 10px;
+
+}
+h3 {font-size: 24px;
+    color: oldlace;
+    margin: 100px 15px 10px 850px}
+.name2 {font-size: 64px;
+    color: oldlace;
+    margin: 50px 15px 75px 650px;}
+.forma2 {background: cornflowerblue;
+box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+border-radius: 10px;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+color: #FFFFFF;
+text-transform: uppercase;}
